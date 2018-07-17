@@ -3,10 +3,28 @@
     <title>Team Zero</title>
     <link href="https://MaikoPut94.github.io/teamzero/feed.xml" rel="self" />
     <link href="https://MaikoPut94.github.io/teamzero" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2018-07-17T10:15:17+02:00</updated>
     <author>
         <name>Maiko Put</name>
     </author>
     <id>https://MaikoPut94.github.io/teamzero</id>
 
+    <entry>
+        <title>Team Zero Reborn</title>
+        <author>
+            <name>Maiko Put</name>
+        </author>
+        <link href="https://MaikoPut94.github.io/teamzero/team-zero-reborn.html"/>
+        <id>https://MaikoPut94.github.io/teamzero/team-zero-reborn.html</id>
+
+        <updated>2018-07-17T10:14:57+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://MaikoPut94.github.io/teamzero/media/posts/1/" alt="" />
+                <p>Team Zero is a guild which originated on The Maelstrom during the Legion expansion. A group of likeminded memerino's who fought through with all their might to defeat the evil in Azeroth.</p>
+<p>Some people stopt playing, some went to different guilds. Team Zero was dead. Now it's almost time to start battling the filthy alliance once more. Team Zero will come back the next expansion. Bigger, better, Team Zero Reborn.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
